@@ -23,5 +23,7 @@ slides:
   - reactable-music
   - reactivision-simulator
   - reactable-fountain
+  - microsoft-azure
+  - web-service-architecture
 ---
 
