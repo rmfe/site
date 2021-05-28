@@ -1,15 +1,15 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/rmfe/images.git
-    branch = master
+	branch = 2018097
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/rmfe/_gallery.git
-	branch = master
+	branch = 2018097
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/pibook/extras.git
-	branch = master
+	url = https://github.com/rmfe/extras.git
+	branch = 2018097
 [submodule "_quotes"]
 	path = _quotes
 	url = https://github.com/pibook/_quotes.git
